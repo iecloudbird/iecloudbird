@@ -7,8 +7,7 @@
 - Open to **open-source projects** in AI and software development && Excited to join **hackathons** and **coding competitions**
 ---
 ### 💡 Interests
-- **AI in cloud computing**, **web development** (React, Node.js)
-- Building creative and user-friendly applications
+- **AI in cloud computing**, **web development** (React, Node.js) && Building creative and user-friendly applications
 ---
 ### 📫 Get in Touch
 - Email: [sheanhans03@gmail.com](mailto:sheanhans03@gmail.com)
