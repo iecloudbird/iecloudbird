@@ -1,6 +1,5 @@
 ## 👋 Hi, I'm Shean
-💻 Passionate about **web development**, **AI**, and creating impactful software solutions.
----
+
 ### 🔍 Current Focus
 - Improving **full-stack development** skills (JavaScript, AI integration) && Exploring **cloud computing** and **AI data processing**
 ---
