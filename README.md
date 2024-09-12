@@ -1,16 +1,34 @@
-## Hi there 👋
+## 👋 Hi there, I'm Shean
 
-<!--
-**iecloudbird/iecloudbird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Sc. in Software Design with AI for Cloud Computing**  
+Technological University of Shannon
 
-Here are some ideas to get you started:
+💻 Passionate about **web development**, **artificial intelligence**, and building impactful software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔍 Current Focus
+- 🔭 Currently working on improving full-stack development skills, with a focus on **JavaScript frameworks** and **AI integration**.
+- 🌱 Learning advanced **cloud computing techniques**, specifically related to **AI** and **data processing**.
+
+---
+
+### 🤝 Collaborations & Contributions
+- 👯 Looking to collaborate on **open-source projects** in AI and software development, especially those leveraging **machine learning** for cloud-based applications.
+- 🚀 Always excited to contribute to **hackathons** and **coding competitions**.
+
+---
+
+### 💡 Interests
+- 💬 Feel free to ask me about **AI in cloud computing**, **web development** (React, Node.js), and **software design patterns**.
+- 🛠️ Enthusiast in building creative and user-friendly applications.
+
+---
+
+### 📫 Get in Touch
+- Email: [sheanhans03@gmail.com](mailto:sheanhans03@gmail.com)
+
+---
+
+### ⚡ Fun Fact
+- Glory to our Lord Jesus Christ! I find strength and purpose in my faith, and I aim to reflect those values in both my personal and professional life.
