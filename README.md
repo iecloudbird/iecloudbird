@@ -1,7 +1,4 @@
 ## 👋 Hi, I'm Shean
-🎓 **B.Sc. in Software Design with AI for Cloud Computing**  
-Technological University of Shannon
-
 💻 Passionate about **web development**, **AI**, and creating impactful software solutions.
 ---
 ### 🔍 Current Focus
