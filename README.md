@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Shean
+## 👋 Hi there, I'm Shean
 
 ### 🔍 Current Focus
 - Improving **full-stack development** skills (JavaScript, AI integration) && Exploring **cloud computing** and **AI data processing**
