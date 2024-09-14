@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Shean
 
-* 🔍 **Current Focus**: Improving my **full-stack development** skills (JavaScript, AI integration) and exploring **cloud computing** and **AI data processing**.
+* 🔍 **Current Focus**: Improving my **full-stack development** skills and exploring **AI data processing**.
 * 🤝 **Collaborations**: Open to **open-source projects** in AI and software development. Excited to contribute to help.
 * 🌱  **Learning**: Creating my portfolio webpage/ Learning Angular and Cordova.
 * 📫 **Get in Touch**: Feel free to email me at [sheanhans03@gmail.com](mailto:sheanhans03@gmail.com).
